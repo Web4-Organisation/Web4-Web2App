@@ -1,7 +1,3 @@
-Here's the README.md for the Android Web2App repository in English:
-
----
-
 # Web4 Web2App - Android Template
 
 This repository provides a simple way to convert Web4 networks into an Android WebView app. Use this template to deploy your Web4 network in a fully functional mobile app.
